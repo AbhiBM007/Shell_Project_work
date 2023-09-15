@@ -1,0 +1,18 @@
+Started with Microsoft Azure 
+
+Learnt about various workitems
+
+Created an organization
+
+created a project - PAWS
+
+Created a sprint that lasts for 10 days
+
+created an epic -> group of tasks where clustered
+
+created many tasks
+
+created an issue
+
+
+
